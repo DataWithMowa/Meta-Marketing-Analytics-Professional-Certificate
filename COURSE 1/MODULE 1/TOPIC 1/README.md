@@ -39,7 +39,7 @@ Studying the ethics and boundaries of using consumer data. You will look at priv
 
 > **The Takeaway:** The goal of this specific month is to take me from a high-level view of marketing data, show me where it lives, introduce me to the software used to look at it, and teach me how to handle it legally and ethically.
 
-This syllabus lays out the core **skills, tools, and testing requirements** I need to master to pass the first course.
+## This syllabus lays out the core **skills, tools, and testing requirements** I need to master to pass the first course.
 
 ---
 
@@ -70,7 +70,7 @@ To complete the course, I must pass **5 graded quizzes** distributed across the 
 
 ---
 
-This following introduces my main instructor for the course, **Anke Audenaert**.
+## This following introduces my main instructor for the course, **Anke Audenaert**.
 
 Simply put, she is sharing her professional background to show why she is qualified to teach me and how marketing analytics completely accelerated her own career.
 
@@ -92,7 +92,7 @@ Here is the quick breakdown of her journey:
 
 --- 
 
-> The following transcript is a short welcome address from **Sheryl Sandberg** (the former Chief Operating Officer of Meta/Facebook) welcoming me  to the program.
+## The following transcript is a short welcome address from **Sheryl Sandberg** (the former Chief Operating Officer of Meta/Facebook) welcoming me  to the program.
 
 Simply put, her message highlights three key points:
 
@@ -106,7 +106,7 @@ In short, she's letting me know that the program is fully built to help me land 
 
 Next, the following highlights the **booming job market** for marketing analysts and breaks down the four main types of work environments you can enter once I finish this program.
 
-Here is where marketing analysts actually work and what they do:
+## Here is where marketing analysts actually work and what they do:
 
 ---
 
